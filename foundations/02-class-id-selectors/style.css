@@ -5,12 +5,12 @@
   font-family: "Verdana", "Deja-Vu Sans", sans-serif;
 }
 
-#row-two {
+#two {
   color: blue;
   font-size: 36;
 }
 
-#row-four {
+#four {
   background-color: hsl(120, 100%, 75%);
   font-size: 24;
   font-weight: bold;
